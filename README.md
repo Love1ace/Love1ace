@@ -1,4 +1,4 @@
-##
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
@@ -12,8 +12,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=love1ace&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
-##
 <!--
 **love1ace/love1ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
