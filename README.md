@@ -1,6 +1,5 @@
 
-[![Group 21](https://github.com/user-attachments/assets/b470fe7e-4d38-484e-b6a5-1df0f0460dd7)](https://dongyeongkim.com)
-
+![Group 21](https://github.com/user-attachments/assets/b470fe7e-4d38-484e-b6a5-1df0f0460dd7)
 
 <h1 align="center">😎 Hi there, Welcome to my Github</h1>
 
@@ -8,7 +7,7 @@
 <p align="center">I take great interest in <b>learning</b> new things and solving problems in <b>creative</b> ways. </p>
 <p align="center">Development is both my profession and my hobby, and my goal is to one day create and contribute to an <b>impactful</b> open-source project.</p>
 
-<h1></h1>
+![rainbow](https://github.com/user-attachments/assets/f9046cec-b022-40df-add7-39edf82ae395)
 
 ### <p align="center"> Tech Stack and Tools </p>
 
@@ -29,7 +28,4 @@
 </div>
 
 <br>
-
-
-![rainbow](https://github.com/user-attachments/assets/f9046cec-b022-40df-add7-39edf82ae395)
 
