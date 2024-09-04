@@ -10,8 +10,10 @@
 
 <h1></h1>
 
-### Tech Stack and Tools
+### <p align="center"> Tech Stack and Tools </p>
 
+<div align="center">
+  
 | ![Frontend](https://img.shields.io/badge/Frontend-000000?style=flat-square&logoColor=white)     | ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=flat-square&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logoColor=white) |
 | :----------  | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Backend](https://img.shields.io/badge/Backend-000000?style=flat-square&logoColor=white)      | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logoColor=white) |
@@ -24,6 +26,7 @@
 | ![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logoColor=white) | ![bash](https://img.shields.io/badge/bash-000000?style=flat-square&logoColor=white) ![zsh](https://img.shields.io/badge/zsh-000000?style=flat-square&logoColor=white) ![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat-square&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logoColor=white) |
 | ![Tools](https://img.shields.io/badge/Tools-000000?style=flat-square&logoColor=white)          | ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logoColor=white) |
 
+</div>
 
 <br>
 
