@@ -24,4 +24,9 @@
 | ![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logoColor=white) | ![bash](https://img.shields.io/badge/bash-000000?style=flat-square&logoColor=white) ![zsh](https://img.shields.io/badge/zsh-000000?style=flat-square&logoColor=white) ![iTerm](https://img.shields.io/badge/iTerm-000000?style=flat-square&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat-square&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logoColor=white) |
 | ![Tools](https://img.shields.io/badge/Tools-000000?style=flat-square&logoColor=white)          | ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logoColor=white) |
 
-<h1></h1>
+
+<br>
+
+
+![rainbow](https://github.com/user-attachments/assets/f9046cec-b022-40df-add7-39edf82ae395)
+
